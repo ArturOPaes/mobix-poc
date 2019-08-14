@@ -1,0 +1,12 @@
+{
+  "short_name": "mobix-poc",
+  "name": "Mobix POC",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
